@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "name": "kiran",
+      "rollnumber": "M23",
+      "email": "kiran@gmail.com",
+      "mobilenumber": "8965453567",
+      "address": "rajajinagar",
+      "percentage": "86",
+      "id": 1
+    },
+    {
+      "name": "abcde",
+      "rollnumber": "65",
+      "email": "sdfgh",
+      "mobilenumber": "sdfgh",
+      "address": "sdfg",
+      "percentage": "57",
+      "id": 2
+    },
+    {
+      "name": "pqr",
+      "rollnumber": "23",
+      "email": "ghjn",
+      "mobilenumber": "kjfghj",
+      "address": "hj",
+      "percentage": "fdghj",
+      "id": 3
+    },
+    {
+      "name": "sam",
+      "rollnumber": "101",
+      "email": "sam@gmail.com",
+      "mobilenumber": "8484930394",
+      "address": "#32 2nd main 3rd cross",
+      "percentage": "78%",
+      "id": 4
+    }
+  ]
+}
